@@ -1,0 +1,67 @@
+[
+    {   
+        "id" : 1,
+        "Name" : "Reels",
+        "image" : "../Images/reels.png"
+    },
+    {
+        "id": 2,
+        "Name" : "Messages",
+        "image" : "../Images/messenger.png"
+    },
+    {
+        "id" : 3,
+        "Name" : "Groups",
+        "image" : "../Images/Groups.png"
+    },
+    {
+        "id" : 4,
+        "Name" : "Video",
+        "image" : "../Images/videos.png"
+    },
+    {
+        "id" : 5,
+        "Name" : "Live Videos",
+        "image" : "../Images/live.png"
+    },
+    {
+        "id" : 6,
+        "Name" : "Pages",
+        "image" : "../Images/Pages.png"
+    },
+    {
+        "id" : 7,
+        "Name" : "Saved",
+        "image" : "../Images/save.png"
+    },
+    {
+        "id" : 8,
+        "Name" : "Memories",
+        "image" : "../Images/memories.png"
+    },
+    {
+        "id" : 9,
+        "Name" : "Events",
+        "image" : "../Images/event.png"
+    },
+    {
+        "id" : 10,
+        "Name" : "Games",
+        "image" : "../Images/game.png"
+    },
+    {
+        "id" : 11,
+        "Name" : "Fantasy games",
+        "image" : "../Images/trophy.png"
+    },
+    {
+        "id" : 12,
+        "Name" : "Meta Verified",
+        "image" : "../Images/verified.png"
+    },
+    {
+        "id" : 13,
+        "Name" : "Feeds",
+        "image" : "../Images/feeds.png"
+    }
+]

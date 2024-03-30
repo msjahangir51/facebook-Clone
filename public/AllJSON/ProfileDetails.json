@@ -1,0 +1,777 @@
+[
+    {
+        "id" : 1,
+        "profile" : "../Images/Profile/profile (1).jpg",
+        "FullName" : "Lily Thompson",
+        "FristName" : "Lily",
+        "LastName" : "Thompson",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (1).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (1).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (1).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "profile" : "../Images/Profile/profile (2).jpg",
+        "FullName" : "Ethan Jacobs",
+        "FristName" : "Ethan",
+        "LastName" : "Jacobs",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (2).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (2).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (2).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "profile" : "../Images/Profile/profile (3).jpg",
+        "FullName" : "Ava Richards",
+        "FristName" : "Ava",
+        "LastName" : "Richards",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (3).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (3).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (3).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "profile" : "../Images/Profile/profile (4).jpg",
+        "FullName" : "Noah Carter",
+        "FristName" : "Noah",
+        "LastName" : "Carter",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (4).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (4).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (4).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 5,
+        "profile" : "../Images/Profile/profile (5).jpg",
+        "FullName" : "Sophia Nelson",
+        "FristName" : "Sophia",
+        "LastName" : "Nelson",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (5).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (5).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (5).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "profile" : "../Images/Profile/profile (6).jpg",
+        "FullName" : "Lucas Ramirez",
+        "FristName" : "LUcas",
+        "LastName" : "Remiraz",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (6).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (6).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (6).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 7,
+        "profile" : "../Images/Profile/profile (7).jpg",
+        "FullName" : "Mia Foster",
+        "FristName" : "Mia",
+        "LastName" : "Foster",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (7).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (7).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (7).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 8,
+        "profile" : "../Images/Profile/profile (8).jpg",
+        "FullName" : "Oliver Hayes",
+        "FristName" : "Oliver",
+        "LastName" : "Hayes",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (8).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (8).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (8).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 9,
+        "profile" : "../Images/Profile/profile (9).jpg",
+        "FullName" : "Isabella Dixon",
+        "FristName" : "Isabella",
+        "LastName" : "Dixon",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (9).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (9).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (9).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 10,
+        "profile" : "../Images/Profile/profile (10).jpg",
+        "FullName" : "Amelia Chavez",
+        "FristName" : "Amelia",
+        "LastName" : "Chaver",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (10).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (10).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (10).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 11,
+        "profile" : "../Images/Profile/profile (11).jpg",
+        "FullName" : "Liam Morgan",
+        "FristName" : "Liam",
+        "LastName" : "Morgan",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (11).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (11).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (11).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 12,
+        "profile" : "../Images/Profile/profile (12).jpg",
+        "FullName" : "Benjamin Patel",
+        "FristName" : "Benjamin",
+        "LastName" : "Patel",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (12).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (12).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (12).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 13,
+        "profile" : "../Images/Profile/profile (13).jpg",
+        "FullName" : "Charlotte Nguyen",
+        "FristName" : "Charlotte",
+        "LastName" : "Nguyen",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (13).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (13).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (13).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 14,
+        "profile" : "../Images/Profile/profile (14).jpg",
+        "FullName" : "William Sullivan",
+        "FristName" : "William",
+        "LastName" : "Sullivan",
+        "POST" : [
+            {
+                "PostID" :1,
+                "profile" : "../Images/Profile/profile (14).jpg",
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (14).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (14).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 15,
+        "profile" : "../Images/Profile/profile (15).jpg",
+        "FullName" : "Harper Kim",
+        "FristName" : "Harper",
+        "LastName" : "Kim",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (15).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (15).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (15).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 16,
+        "profile" : "../Images/Profile/profile (16).jpg",
+        "FullName" : "James Garcia",
+        "FristName" : "James",
+        "LastName" : "Garcia",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (16).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (16).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (16).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 17,
+        "profile" : "../Images/Profile/profile (17).jpg",
+        "FullName" : "Evelyn Murphy",
+        "FristName" : "Elelyn",
+        "LastName" : "Murphy",
+        "POST" : [
+            {
+                "PostID" :1,
+                "profile" : "../Images/Profile/profile (17).jpg",
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (17).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (17).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 18,
+        "profile" : "../Images/Profile/profile (18).jpg",
+        "FullName" : "Elijah Khan",
+        "FristName" : "Elijan",
+        "LastName" : "Khan",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (18).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (18).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (18).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+                
+            }
+        ]
+    },
+    {
+        "id" : 19,
+        "profile" : "../Images/Profile/profile (19).jpg",
+        "FullName" : "Abigail Wright",
+        "FristName" : "Abigail",
+        "LastName" : "Wright",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (19).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (19).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (19).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 20,
+        "profile" : "../Images/Profile/profile (20).jpg",
+        "FullName" : "Alexander Rivera",
+        "FristName" : "Alexander",
+        "LastName" : "Rivera",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (20).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (20).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (20).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 21,
+        "profile" : "../Images/Profile/profile (21).jpg",
+        "FullName" : "Scarlett Patel",
+        "FristName" : "Scarlet",
+        "LastName" : "Patel",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (21).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (20).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (21).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 22,
+        "profile" : "../Images/Profile/profile (22).jpg",
+        "FullName" : "Daniel Rodriguez",
+        "FristName" : "Dariel",
+        "LastName" : "Rodriguez",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (22).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (23).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (22).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 23,
+        "profile" : "../Images/Profile/profile (23).jpg",
+        "FullName" : "Madison Wong",
+        "FristName" : "Madison",
+        "LastName" : "Wong",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (23).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (24).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (23).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 24,
+        "profile" : "../Images/Profile/profile (24).jpg",
+        "FullName" : "Michael Cooper",
+        "FristName" : "Michael",
+        "LastName" : "Cooper",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (24).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (26).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (24).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 25,
+        "profile" : "../Images/Profile/profile (25).jpg",
+        "FullName" : "Elizabeth Khan",
+        "FristName" : "Elizabeth",
+        "LastName" : "Khan",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (25).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (43).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (25).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 26,
+        "profile" : "../Images/Profile/profile (26).jpg",
+        "FullName" : "Henry Mitchell",
+        "FristName" : "Henny",
+        "LastName" : "Mithell",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (26).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (44.jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (26).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 27,
+        "profile" : "../Images/Profile/profile (27).jpg",
+        "FullName" : "Emily Thomas",
+        "FristName" : "Emily",
+        "LastName" : "Thomas",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (27).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (35).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (27).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 28,
+        "profile" : "../Images/Profile/profile (28).jpg",
+        "FullName" : "Jackson Li",
+        "FristName" : "Jackson",
+        "LastName" : "Li",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (28).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (47).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (28).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 29,
+        "profile" : "../Images/Profile/profile (29).jpg",
+        "FullName" : "Grace Phillipls",
+        "FristName" : "Grace",
+        "LastName" : "Phillips",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (29).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (45).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (29).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 30,
+        "profile" : "../Images/Profile/profile (30).jpg",
+        "FullName" : "Sebastian Taylor",
+        "FristName" : "Sebastian",
+        "LastName" : "Taylor",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (30).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (53).jpg",
+                "Like" : true,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (30).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    },
+    {
+        "id" : 31,
+        "profile" : "../Images/Profile/profile (31).jpg",
+        "FullName" : "Chloe Lee",
+        "FristName" : "Chloe",
+        "LastName" : "Lee",
+        "POST" : [
+            {
+                "profile" : "../Images/Profile/profile (31).jpg",
+                "PostID" :1,
+                "PostTitle": "New Post",
+                "IMGORVIDEOORText" : "../Images/Story/story (51).jpg",
+                "Like" : false,
+                "LikeLength" : "1M",
+                "comment" : [
+                    {
+                        "profile" : "../Images/Profile/profile (31).jpg",
+                        "text" : "awesome Text"
+                    }
+                ]
+
+
+            }
+        ]
+    }
+]

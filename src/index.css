@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    .btn a{
+        @apply block
+        lg:px-9
+        md:px-5
+        sm:px-4
+        px-6
+        md:py-[0.4rem]
+        sm:py-[0.2rem]
+        py-[0.2rem]
+        border-b-4
+    }
+    .Nav-btn-1 a{
+        @apply block
+        sm:px-4
+        bg-gray-500/15
+        px-1
+    }
+    .Nav-btn-1 a svg{
+        @apply text-[1.6rem]
+    }
+    .Nav-btn-1 a.active svg{
+        @apply text-blue-500
+    }
+    .btn a.active{
+        @apply border-b-4 border-b-blue-500
+    }
+    .btn a:hover{
+        @apply bg-gray-500/10;
+    }
+    .btn a.active svg{
+        @apply text-blue-600;
+    }
+}
+@layer utilities{
+    .allsvg{
+        font-size: 1.8rem;
+    }
+    .allsvg_m{
+        font-size: 1.8rem;
+    }
+    .storyCard div{
+        transition: background-color 0.2s linear;
+    }
+    .storyCard:hover div{
+        background-color: rgb(227, 227, 227);
+    }
+
+}
